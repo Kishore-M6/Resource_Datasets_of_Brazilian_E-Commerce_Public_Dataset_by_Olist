@@ -1,0 +1,31 @@
+[
+ {
+  "dynamic_parameter_csv_relative_url": "Resource_Datasets_of_Brazilian_E-Commerce_Public_Dataset_by_Olist/refs/heads/main/olist_customers_dataset.csv",
+  "dynamic_file_name":"olist_customers_dataset.csv"
+ },
+ {
+  "dynamic_parameter_csv_relative_url": "Resource_Datasets_of_Brazilian_E-Commerce_Public_Dataset_by_Olist/refs/heads/main/olist_geolocation_dataset.csv",
+  "dynamic_file_name":"olist_geolocation_dataset.csv"
+ },
+ {
+  "dynamic_parameter_csv_relative_url": "Resource_Datasets_of_Brazilian_E-Commerce_Public_Dataset_by_Olist/refs/heads/main/olist_order_items_dataset.csv",
+  "dynamic_file_name":"olist_order_items_dataset.csv"
+ },
+ {
+  "dynamic_parameter_csv_relative_url": "Resource_Datasets_of_Brazilian_E-Commerce_Public_Dataset_by_Olist/refs/heads/main/olist_order_reviews_dataset.csv",
+  "dynamic_file_name":"olist_order_reviews_dataset.csv"
+ },
+ {
+  "dynamic_parameter_csv_relative_url": "Resource_Datasets_of_Brazilian_E-Commerce_Public_Dataset_by_Olist/refs/heads/main/olist_orders_dataset.csv",
+  "dynamic_file_name":"olist_orders_dataset.csv"
+ },
+ {
+  "dynamic_parameter_csv_relative_url": "Resource_Datasets_of_Brazilian_E-Commerce_Public_Dataset_by_Olist/refs/heads/main/olist_products_dataset.csv",
+  "dynamic_file_name":"olist_products_dataset.csv"
+ },
+ {
+  "dynamic_parameter_csv_relative_url": "Resource_Datasets_of_Brazilian_E-Commerce_Public_Dataset_by_Olist/refs/heads/main/olist_sellers_dataset.csv",
+  "dynamic_file_name":"olist_sellers_dataset.csv"
+ }
+
+]
